@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
-setup(name='minecraft-py3',
-      version='0.0.1',
+setup(name='minecraft-py',
+      version='0.0.2',
       description='Python3 bindings for Malmo',
       url='https://github.com/tambetm/minecraft-py3',
       author='Tambet Matiisen',
