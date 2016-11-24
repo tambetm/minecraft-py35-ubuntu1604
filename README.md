@@ -1,8 +1,8 @@
-# minecraft_py3
+# minecraft_py
 
 Python wrapper for [Malmö](https://github.com/Microsoft/malmo), a platform for Artificial Intelligence experimentation and research built on top of Minecraft.
 
-**NB! This is a precompiled version for Python 3 under Ubuntu 16.04.** 
+**NB! This is a precompiled version for Python 3.5 under Ubuntu 16.04.** 
 
 ## Installation
 
